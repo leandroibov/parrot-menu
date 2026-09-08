@@ -86,7 +86,7 @@ Installed or removed tools? Regenerate the database:
 
 ```bash
 rm ~/parrot-tools--list-commands.txt
-./parrot-tools-guide.sh
+./parrot-menu.sh
 ```
 
 ---

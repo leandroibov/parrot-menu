@@ -100,3 +100,13 @@ The generated file contains three sections:
 3. **Tool list** — blocks with `file`, `command`, and `category`
 
 ---
+
+## 📜 License
+
+Released under the [MIT License](LICENSE).
+
+---
+
+
+
+

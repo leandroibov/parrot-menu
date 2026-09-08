@@ -37,23 +37,17 @@ menu tree inside the terminal, letting you browse by **categories**,
 
 ## 🚀 How to use
 
-### 1. Clone the repository
+
+### 1. Make the script executable
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-cd YOUR-REPOSITORY
+chmod +x parrot-menu.sh
 ```
 
-### 2. Make the script executable
+### 2. Run it
 
 ```bash
-chmod +x parrot-tools-guide.sh
-```
-
-### 3. Run it
-
-```bash
-./parrot-tools-guide.sh
+./parrot-menu.sh
 ```
 
 > On first run, the script automatically creates the database at
